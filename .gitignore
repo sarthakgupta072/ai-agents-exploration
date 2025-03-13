@@ -1,0 +1,36 @@
+# VS Code settings
+.vscode/
+
+# Python-related
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.ipynb_checkpoints
+
+# Virtual environment
+venv/
+.env/
+.venv/
+.envrc
+
+# Dependency files
+pip-log.txt
+pip-delete-this-directory.txt
+poetry.lock
+Pipfile.lock
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# LangChain / LangGraph-specific
+data/
+logs/
+cache/
+output/
+*.db
+
+# Environment variables
+.env
+*.
