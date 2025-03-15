@@ -6,6 +6,7 @@ A repository created to document the learning of AI agents made using langgraph
 
 1. [Blog Writer Agent](./blog-writer-agent.ipynb)
 2. [Blog Writer SEO Agent](./blog-writer-with-seo.ipynb)
+3. [Weather agent with tool calling](./weather-agent.ipynb)
 
 ### Ideas
 
